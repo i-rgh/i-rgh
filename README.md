@@ -15,7 +15,7 @@
 ###
 
 
-<a href="https://app.daily.dev/rezaghavipour"><img src="https://api.daily.dev/devcards/v2/yNP52I3j0KU7uW56yiI9M.png?type=default&r=fdl" width="356" alt="Reza Ghavipour's Dev Card"/></a>
+<a href="https://app.daily.dev/rezaghavipour"><img src="https://api.daily.dev/devcards/v2/yNP52I3j0KU7uW56yiI9M.png?type=wide&r=fdl" width="652" alt="Reza Ghavipour's Dev Card"/></a>
 
 <h2 align="left">I code with</h2>
 
